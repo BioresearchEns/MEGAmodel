@@ -1,3 +1,10 @@
+;MEGA model
+;Computational model in NetLogo to study bacterial adaptation and 
+;evolution in an spatially structured environment, following the characteristics of the MEGA model
+;Copyright (c) 2018 Bioresearch, Inc.
+;Licensed under the MIT License (see LICENSE for details)
+;Written by Rubén Castañeda with contributions from Carlos Castro
+
 breed [bacterium bacteria]
 
 ;;turtles-own [energy antibiotic-resistance alive age]
